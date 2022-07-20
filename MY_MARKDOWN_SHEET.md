@@ -210,3 +210,21 @@ var x = 100;
 - var y = 200;
 + var y = 100;
 ```
+
+# TABLES
+
+Table is used using pipes `|`.
+
+|  Food  | Calories |
+| :----: | :------: |
+| Burger |   500    |
+| Salad  |    5     |
+| Apple  |    50    |
+
+Table generating is very slow and time taking process. I would suggest using a markdown table generating extension available in almost every code editor. use google to find out !!
+
+# GITHUB TREATS
+
+- [ ] Charge Phone
+- [x] Buy Noodles
+- [ ] Cook Egg
