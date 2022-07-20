@@ -128,4 +128,16 @@ Using indentation in list
        - Again Indent
 1. FOUR
 1. FIVE
+
    - Indent diffrently
+
+   This is inline
+
+   ![Sheep](https://cdn.pixabay.com/photo/2022/05/08/20/39/sheep-7182968_960_720.jpg "Image in Inline indented list")
+
+   ```js
+   // Adding js code sample
+   var x = 200;
+   ```
+
+#
