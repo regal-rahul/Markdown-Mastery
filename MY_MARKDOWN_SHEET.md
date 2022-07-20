@@ -228,3 +228,5 @@ Table generating is very slow and time taking process. I would suggest using a m
 - [ ] Charge Phone
 - [x] Buy Noodles
 - [ ] Cook Egg
+
+This checkbox could be useful many times in github while creating a pull request or various task check or etc etc.
