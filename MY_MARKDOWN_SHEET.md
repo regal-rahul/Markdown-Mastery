@@ -140,4 +140,73 @@ Using indentation in list
    var x = 200;
    ```
 
-#
+# Line Breaks, Horizontal Rules and BlockQuotes
+
+## LINE BREAKS
+
+Markdown is cool.<br>
+Line break is awesome.
+
+Using line breaks
+
+## HORIZONTAL RULES
+
+Something
+
+---
+
+Another Thing
+
+---
+
+---
+
+## BLOCK QUOTES
+
+> This is not a quote but i would suggest to have more water and healthy food daily.
+>
+> — **Me**
+
+> Sleep is important.
+
+> Okay enough of blockquote.
+
+# CODE BLOCK
+
+Here is my code:
+
+    var x = 100;
+    const juice = 'mango';
+
+Here is code specific code blocks:
+
+```html
+<li>Hello List</li>
+<h1>Hello Heading</h1>
+```
+
+```js
+var x = 100;
+const pet = "dog";
+```
+
+```php
+$age = 23;
+$name = "dullu";
+echo strtoupper($name);
+```
+
+```
+var x = 100;
+const pet = "cat";
+```
+
+Hey did you tried `var name = 'dullu'`?
+
+Showing diffrence using -, + in code.
+
+```diff
+var x = 100;
+- var y = 200;
++ var y = 100;
+```
